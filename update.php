@@ -4,7 +4,6 @@
  * PHP Curl status update script
  * @since Sep 2010
  * @version 29.5.2012
- * @link 
  * @author Luka Pušić
  */
 /*
